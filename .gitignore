@@ -1,0 +1,13 @@
+# Arquivos de compilação e objetos
+*.o
+*.obj
+
+# Executáveis gerados
+*.exe
+*.out
+
+# Pastas de ferramentas e IDEs (VS Code, Code::Blocks, etc.)
+.vscode/
+.idea/
+*.layout
+*.depend
