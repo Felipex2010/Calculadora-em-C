@@ -24,7 +24,7 @@ int main()
                    "Opcao:\n");
 
             int caso;
-            char proximoChar;
+            char proximoChar=0;
             float num1, num2, resultado;
 
             if (scanf("%d%c", &caso, &proximoChar) != 2 || proximoChar != '\n')
